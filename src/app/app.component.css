@@ -1,0 +1,12 @@
+section {
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+    align-items: center;
+}
+
+section input {
+    width: 400px;
+    margin: 10px;
+    height: 30px;
+}
